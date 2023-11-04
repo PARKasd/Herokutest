@@ -65,7 +65,7 @@ Register for an account at [Heroku](http://www.heroku.com/) and log in.
 
 Then, click on the button below and follow the setup page:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SignTools/SignTools/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PARKasd/Herokutest/tree/master)
 
 Once you are done, you will be left with your very own web service. Congratulations!
 
